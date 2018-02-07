@@ -1,4 +1,6 @@
 # Real_Time_Clock
+Atmel File 
+
 IC:DS1307
-Librabries: USART 
-            I2C
+
+Librabries: USART and I2C
