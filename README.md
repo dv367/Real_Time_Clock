@@ -3,4 +3,4 @@ Atmel File
 
 IC:DS1307
 
-Librabries: USART and I2C
+Libraries: USART and I2C
